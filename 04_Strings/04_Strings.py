@@ -23,7 +23,7 @@
     # Slicing of String
 # s = "hello world"
 
-# # s = [start : ending : gaps]
+# # s[start : ending : gaps]
 
 # print(s[0:5])
 # print(s[:-3])
